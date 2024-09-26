@@ -1,0 +1,29 @@
+{
+  "name": "next-starter-v5",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "l": "^0.6.0",
+    "next": "14.1.0",
+    "react": "^18.3",
+    "react-dom": "^18.3",
+    "thirdweb": "^5.58.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.16.8",
+    "@types/react": "^18.3.9",
+    "@types/react-dom": "^18.3.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "typescript": "^5.6.2"
+  }
+}
